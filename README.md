@@ -15,9 +15,9 @@ Now also running [ATK Fabrication Co.](https://www.etsy.com/shop/ATKFabricationC
 
 ## Featured projects
 
-- [`thermal-printer-server`](https://github.com/rowbotik/thermal-printer-server) — HTTP API server for thermal label printing on Raspberry Pi. Converts images to TSPL2 format. Powers the shipping pipeline for ATK Fabrication.
-- [`spottyPod`](https://github.com/rowbotik/spottyPod) — Turn a HomePod into a Spotify Connect speaker using a Raspberry Pi.
-- [`network-monitor`](https://github.com/rowbotik/network-monitor) — Network health monitoring for Home Assistant. Detects hiccups and connection drops.
+- [`bambu-cli-automation`](https://github.com/rowbotik/bambu-cli-automation) — Bash wrapper suite for Bambu Lab 3D printer automation. Pre-flight validation, job queuing, and Telegram alerts.
+- [`inventory-dashboard`](https://github.com/rowbotik/inventory-dashboard) — Node.js/Express/SQLite dashboard for tracking 3D printing inventory. Real-time progress, auto-refresh, responsive UI.
+- [`n8n-etsy-automation`](https://github.com/rowbotik/n8n-etsy-automation) — n8n workflow for e-commerce order automation. Parses order emails, updates Google Sheets, creates Calendar events, sends Telegram alerts.
 
 ## Get in touch
 
